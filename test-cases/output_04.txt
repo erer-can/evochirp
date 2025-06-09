@@ -1,0 +1,5 @@
+Nightingale Gen 0: T C T C
+Nightingale Gen 1: T C T C C C C
+Nightingale Gen 2: T C T C C C C T C T C C C C
+Nightingale Gen 3: T C T C C C C T C T C C C
+Nightingale Gen 4: T C T C C C C T C T C-C C-C

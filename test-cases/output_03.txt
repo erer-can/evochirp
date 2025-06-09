@@ -1,0 +1,4 @@
+Warbler Gen 0: C D C D
+Warbler Gen 1: C D C D T T
+Warbler Gen 2: C D C D T T T
+Warbler Gen 3: C D C D T T

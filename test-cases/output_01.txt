@@ -1,0 +1,4 @@
+Nightingale Gen 0: D C D C
+Nightingale Gen 1: D C D C T C T
+Nightingale Gen 2: D C D C T C T D C D C T C T
+Nightingale Gen 3: D C D C T C T D C D C T-T C-T
